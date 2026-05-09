@@ -1,7 +1,7 @@
 # Prosperity Adedayo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Focused+with+Python+,+javscript+and+typescript;Building+Scalable+Web+Applications;Always+Learning+and+Collaborating&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+and+Collaborating&center=true&width=500&height=45" />
 </p>
 
 ---
