@@ -1,7 +1,7 @@
 # Prosperity Adedayo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Focused+with+Python;Building+Scalable+Web+Applications;Always+Learning+and+Collaborating&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Backend+Focused+with+Python+,+javscript+and+typescript;Building+Scalable+Web+Applications;Always+Learning+and+Collaborating&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -18,6 +18,7 @@ I build and collaborate on scalable applications using modern technologies, with
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
